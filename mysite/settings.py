@@ -25,7 +25,7 @@ SECRET_KEY = '3$=w9qdp&o2qz6vmbra^&m=ld-s4(2eq%a3oogs^x^l)u=xq!3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['jangohero.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
